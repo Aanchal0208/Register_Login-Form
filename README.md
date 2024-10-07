@@ -23,3 +23,7 @@ Open a browser and go to localhost/phpmyadmin.
 Click on the Import tab.
 Choose the database file located in the project folder (it should be named something like register_login_form.sql).
 Click Go to import the database.
+
+7. Access the Project:
+Open a browser and go to http://localhost/register_login (replace register_login with the name of your folder if different).
+The login and registration forms should now be available for use.
